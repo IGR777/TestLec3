@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="TestLec3/TestLec3.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestLec3/LayoutActivity.cs">
+    <Files>
+      <File FileName="TestLec3/IntentActivity.cs" Line="105" Column="1" />
+      <File FileName="TestLec3/LayoutActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestLec3 PreferredExecutionTarget="Android.10.71.34.103:5555" />
+</Properties>
